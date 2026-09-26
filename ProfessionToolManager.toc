@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: Profession Tool Manager
+## Notes: Adds smart buttons to "Equip Resourcefulness / Multicraft / Ingenuity" tools to the profession crafting pages.
+## Author: Orosei-Sylvanas (Cipriano Groenendal)
+## Version: 1.1.0
+## X-Category: Professions
+ProfessionToolManager.lua
